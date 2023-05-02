@@ -27,3 +27,9 @@
 接下来将 config.yml, checker.cpp 以及数据打包到一个 zip 中。别忘了给题目打上 Special Judge 标签，然后上传到洛谷。把所有 Subtask 和总分计分方式都改成自定义，然后依次复制生成的 Sub1.txt，Sub2.txt，……，以及总分复制 total.txt 的内容。
 
 建议如果要出公开赛就留两个题目的版本，一个普通版用来加入主题库，一个用这个。
+
+## 致谢
+
+[Wdoi] 提供灵感与基础代码
+
+[@crpQwQ](https://www.luogu.com.cn/user/237940) 发现 [bug](https://www.luogu.com.cn/record/109365617)
