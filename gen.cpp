@@ -38,7 +38,7 @@ int main() {
         << "==AC);then\n  @total_score=100;\n  @final_status=AC;\n  "
            "@final_time=@time1;\n  @final_memory=0;\nelse\n  @total_score=";
   for (int i = 1; i < t; ++i) {
-    total << "@status" << i << "+";
+    total << "@score" << i << "+";
   }
   total << "@status" << t
         << ";\n  @final_status=UNAC;\n  @final_time=0;\n  @final_memory=0;\nfi";
