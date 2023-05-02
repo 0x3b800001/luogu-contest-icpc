@@ -6,9 +6,9 @@
 
 ## 具体效果
 
-在 AC 这题时，显示时间为提交时间距离比赛开始的时间。例如，当比赛在 00:00 开始时，在 21:18:33 提交则会显示 21.30h 的运行时间。精确到分钟。
+在**有分**时，显示运行时间为提交时间距离比赛开始的时间。例如，当比赛在 00:00 开始时，在 21:18:33 提交则会显示 21.30h 的运行时间。精确到分钟。
 
-如果没有 AC，那么运行时间显示为 0ms。
+否则运行时间显示为 0ms。
 
 空间总是显示为 0B。具体效果可以看 [我的私题](https://www.luogu.com.cn/problem/U295935)
 
@@ -33,3 +33,5 @@
 [Wdoi](https://www.luogu.com.cn/contest/53276) 提供灵感与基础代码
 
 [@crpQwQ](https://www.luogu.com.cn/user/237940) 发现 [bug](https://www.luogu.com.cn/record/109365617)
+
+[@CppWriter](https://www.luogu.com.cn/user/821638) [提议](https://www.luogu.com.cn/discuss/602958)
