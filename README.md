@@ -30,6 +30,6 @@
 
 ## 致谢
 
-[Wdoi] 提供灵感与基础代码
+[Wdoi](https://www.luogu.com.cn/contest/53276) 提供灵感与基础代码
 
 [@crpQwQ](https://www.luogu.com.cn/user/237940) 发现 [bug](https://www.luogu.com.cn/record/109365617)
