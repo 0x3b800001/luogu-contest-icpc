@@ -1,0 +1,12 @@
+1.in:
+ timeLimit: 1000
+ memoryLimit: 524288
+ score: 1
+ subtaskId: 1
+
+2.in:
+ timeLimit: 1000
+ memoryLimit: 524288
+ score: 1
+ subtaskId: 2
+

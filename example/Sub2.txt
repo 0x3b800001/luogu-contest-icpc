@@ -1,0 +1,10 @@
+if(@status2==AC);then
+ @total_score=80;
+ @final_status=AC;
+ @final_time=@score2*60*1000;
+else
+ @total_score=0;
+ @final_status=UNAC;
+ @final_time=0;
+fi
+@final_memory=0;

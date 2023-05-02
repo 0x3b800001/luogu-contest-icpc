@@ -1,0 +1,14 @@
+if(@status1==AC)and(@status2==AC);then
+ @final_status=AC;
+else
+ @final_status=UNAC;
+fi
+@final_memory=0;
+@final_time=0;
+@total_score=@score1+@score2;
+if(@status2==AC);then
+ @final_time=@time2;
+fi
+if(@status1==AC);then
+ @final_time=@time1;
+fi
