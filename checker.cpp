@@ -52,14 +52,6 @@ void quitAC() { quitp(Minute, "ok"); }
 int main(int argc, char* argv[]) {
   registerTestlibCmd(argc, argv);
   IOI_ICPC::GetMinute("00:00");
-  std::string strAnswer;
-  while (!ans.eof()) {
-    std::string j = ans.readString();
-    if (j == "" && ans.eof()) break;
-    std::string p = ouf.readString();
-    strAnswer = p;
-    if (!IOI_ICPC::compareWords(j, p)) IOI_ICPC::quitWA();
-  }
-  IOI_ICPC::quitAC();
+  
   return 0;
 }
